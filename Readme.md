@@ -1,0 +1,1 @@
+This is a CV editor, and it was developed for the needs of "Software Engineering" course.
